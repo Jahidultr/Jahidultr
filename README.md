@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Jahidul Islam</h1>
+<h1 align="center">I'm Jahidul Islam</h1>
 - 🌱 I’m currently learning **App Development**
 
 - 📫 How to reach me **jahidulislamiu02@gmail.com**

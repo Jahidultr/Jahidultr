@@ -8,6 +8,8 @@
 - 📫 How to reach me **jahidulislamdiu02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+<img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 <p align="left">
 <a href="https://instagram.com/jr_tuhin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jr_tuhin_" height="30" width="40" /></a>
 </p>

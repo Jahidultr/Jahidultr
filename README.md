@@ -15,7 +15,7 @@ I have expertise in Flutter, Dart, Python, Java, C, HTML, CSS, JavaScript, PHP, 
 ---
 
 ### Connect with me:
-<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left">
 <a href="https://www.linkedin.com/in/jahidul-islam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/jr_tuhin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jr_tuhin_" height="30" width="40" /></a>

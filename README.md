@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jahidul Islam</h1>
-<h3 align="center">"Experienced SQA Engineer and App Developer | Proficient in Flutter, Dart, and Modern Software Development Practices"</h3>
+<h1 align="center">Hi, I'm Jahidul Islam</h1>
+<h3 align="center">Experienced SQA Engineer and App Developer | Proficient in Flutter, Dart, and Modern Software Development Practices</h3>
 
 <p align="center">
-"I have expertise in Software Quality Assurance (SQA), as well as strong skills in Flutter, Dart, Python, Java, C, HTML, CSS, JavaScript, PHP, and MySQL."</p>
+I have expertise in Software Quality Assurance (SQA), as well as strong skills in Flutter, Dart, Python, Java, C, HTML, CSS, JavaScript, PHP, and MySQL.</p>
 
 ---
 
-- 🌱 "Currently, I’m focusing on Software Quality Assurance (SQA), while enhancing my skills in mobile app development using Flutter and Dart."
+- 🌱 Currently, I’m focusing on Software Quality Assurance (SQA), while enhancing my skills in mobile app development using Flutter and Dart.
 - 👯 I’m open to collaborating on **SQA** and **App Development** projects.
 - 💬 Feel free to ask me about **SQA**, **Flutter**, **Dart**, **Python**, **Java**, **C**, **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, and **Arduino**.
 - 📫 You can reach me at: **[jahidulislamdiu02@gmail.com](mailto:jahidulislamdiu02@gmail.com)**

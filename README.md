@@ -1,24 +1,29 @@
 <h1 align="center">Hi 👋, I'm Jahidul Islam</h1>
+<h3 align="center">"Experienced SQA Engineer and App Developer | Proficient in Flutter, Dart, and Modern Software Development Practices"</h3>
 
-<h3 align="center">"Experienced SQA Engineer and App Developer | Proficient in Flutter, Dart, and Modern Software Development Practices" </h3>
-
-<p align="center">I have expertise in Flutter, Dart, Python, Java, C, HTML, CSS, JavaScript, PHP, MySQL, and Software Quality Assurance (SQA).</p>
-
-- 🌱 Currently, I’m exploring mobile app development using **Flutter** and **Dart**, while continuing to enhance my skills in **Software Quality Assurance (SQA)**.
-- 👯 I’m open to collaborating on SQA and App Development projects.
-- 💬 Feel free to ask me about **SQA**, **Flutter**, **Dart**, **Python**, **Java**, **C**, **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, **Arduino**.
-- 📫 You can reach me at: [jahidulislamdiu02@gmail.com](mailto:jahidulislamdiu02@gmail.com)
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/app-developer-jahidul/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/jr_jahidul_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jr_tuhin_" height="30" width="40" /></a>
-  <a href="https://x.com/Jahidul_Islam02" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<p align="center">
+I have expertise in Flutter, Dart, Python, Java, C, HTML, CSS, JavaScript, PHP, MySQL, and Software Quality Assurance (SQA).
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+- 🌱 Currently, I’m exploring mobile app development using **Flutter** and **Dart**, while continuing to enhance my skills in **Software Quality Assurance (SQA)**.
+- 👯 I’m open to collaborating on **SQA** and **App Development** projects.
+- 💬 Feel free to ask me about **SQA**, **Flutter**, **Dart**, **Python**, **Java**, **C**, **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, and **Arduino**.
+- 📫 You can reach me at: **[jahidulislamdiu02@gmail.com](mailto:jahidulislamdiu02@gmail.com)**
+
+---
+
+### Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/jahidul-islam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/jr_tuhin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jr_tuhin_" height="30" width="40" /></a>
+<a href="https://twitter.com/jahidul_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+</p>
+
+---
+
+### Languages and Tools:
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
@@ -33,21 +38,29 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">LeetCode Achievements:</h3>
-- **LeetCode Profile:** [Jahidul Islam's LeetCode](https://leetcode.com/u/Jahidul_Islam2/)
+---
+
+### LeetCode Achievements:
+- **LeetCode Profile:** [Jahidul Islam's LeetCode](https://leetcode.com/u/Jahidul_Islam2/)  
 - **Problems Solved:**  
-  - Python: Solved XX problems
-  - Java: Solved XX problems
-  - Dart: Solved XX problems
-  - C: Solved XX problems
+  - Python: Solved XX problems  
+  - Java: Solved XX problems  
+  - Dart: Solved XX problems  
+  - C: Solved XX problems  
 
-<h3 align="left">My GitHub Stats:</h3>
-![Jahidul Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahidul_Islam2&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+---
 
-<h3 align="left">My LeetCode Stats:</h3>
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/stats?username=Jahidul_Islam2&theme=dark)
+### My GitHub Stats:
+![Jahidul Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahidultr&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-<h3 align="left">My Latest Projects:</h3>
-- **[Personal Portfolio](https://jahidultr.github.io/personal-website/)**: My personal portfolio built with HTML and CSS to showcase my skills and achievements.
-- **[Flutter App for Greeting](https://github.com/Jahidultr/Maps)**: A Flutter-based google Maps app to showcase basic app development skills.
-- **[Arduino 7-Segment Display Project](https://github.com/Jahidultr/Ardunio_Project)**: A project Automatic Room Light Controller with Visitor Counter
+---
+
+### My LeetCode Stats:
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/stats?username=u/Jahidul_Islam2&theme=dark)
+
+---
+
+### My Latest Projects:
+- **[Personal Portfolio](https://jahidultr.github.io/personal-website/)**: My personal portfolio built with HTML and CSS to showcase my skills and achievements.  
+- **[Flutter App for Google Maps](https://github.com/Jahidultr/Maps)**: A Flutter-based Google Maps app to showcase basic app development skills.  
+- **[Automatic Room Light Controller](https://github.com/Jahidultr/Ardunio_Project)**: A project Automatic Room Light Controller with Visitor Counter.  

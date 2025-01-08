@@ -57,7 +57,7 @@ I have expertise in Flutter, Dart, Python, Java, C, HTML, CSS, JavaScript, PHP, 
 ---
 
 ### My LeetCode Stats:
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/stats?username=u/Jahidul_Islam2&theme=dark)
+![LeetCode Stats]![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/stats?username=Jahidul_Islam2&theme=dark)
 
 ---
 

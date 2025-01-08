@@ -45,14 +45,8 @@ I have expertise in Flutter, Dart, Python, Java, C, HTML, CSS, JavaScript, PHP, 
 ### LeetCode Achievements:
 - **LeetCode Profile:** [LeetCode Profile: Jahidul Islam's LeetCode](https://leetcode.com/Jahidul_Islam2/)
 
-- **Problems Solved:**  
-  - Python: Solved XX problems  
-  - Java: Solved XX problems  
-  - Dart: Solved XX problems  
-  - C: Solved XX problems  
-
 ### My LeetCode Stats:
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/stats?username=Jahidul_Islam2&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Jahidul_Islam2?theme=dark)
 
 ---
 

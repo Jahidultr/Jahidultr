@@ -41,13 +41,13 @@ I have expertise in Software Quality Assurance (SQA), as well as strong skills i
 ---
 
 ### LeetCode Achievements:
-- **LeetCode Profile:** [LeetCode Profile: Jahidul Islam's LeetCode](https://leetcode.com/Jahidul_Islam2/)
+- **LeetCode Profile:** [Click here to visit my LeetCode Profile](https://leetcode.com/Jahidul_Islam2/)
 
 ### My LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Jahidul_Islam2?theme=dark)
 
 ### HackerRank Achievements:
-- **HackerRank Profile:** [HackerRank Profile: Jahidul Islam's HackerRank](https://www.hackerrank.com/jahidulislamdiu2)
+- **HackerRank Profile:** [Click here to visit my hackerrank Profile](https://www.hackerrank.com/jahidulislamdiu2)
 
 - **Skills**:
 

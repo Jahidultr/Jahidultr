@@ -63,11 +63,11 @@ I have expertise in Software Quality Assurance (SQA), as well as strong skills i
 ## GitHub Stats
 ![Jahidul Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jahidultr&show_icons=true&theme=dark)
 
-## Contribution Graph
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahidultr&layout=compact&theme=dark)
+
 ![Jahidul's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jahidultr&theme=dark)
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahidultr&layout=compact&theme=dark)
+
 
 ---
 

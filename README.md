@@ -63,8 +63,7 @@ I have expertise in Software Quality Assurance (SQA), as well as strong skills i
 
 <table>
   <tr>
-    <td>
-      <h3><a href="https://github.com/Jahidultr">Jahidultr's GitHub Stats</a></h3>
+    <td>      
       <img src="https://github-readme-stats.vercel.app/api?username=Jahidultr&show_icons=true&theme=dark" width="100%">
     </td>
     <td>
@@ -76,7 +75,7 @@ I have expertise in Software Quality Assurance (SQA), as well as strong skills i
 
 ---
 ### Contribution Graph  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jahidultr&theme=react-dark" width="100%" height="250px"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jahidultr&theme=react-dark" width="100%" height="150px"/>
 
 
 

@@ -62,11 +62,11 @@ I have expertise in Software Quality Assurance (SQA), as well as strong skills i
 
 <div align="start">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Jahidultr&show_icons=true&theme=dark" height="200px" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jahidultr&show_icons=true&theme=dark" height="250px" width="400px" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahidultr&layout=compact&theme=dark" height="200px" width="400px" />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jahidultr&theme=dark" height="200px" width="800px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jahidultr&theme=dark" height="200px" width="700px" />
 
 </div>
 

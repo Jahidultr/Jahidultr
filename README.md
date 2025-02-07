@@ -58,16 +58,34 @@ I have expertise in Software Quality Assurance (SQA), as well as strong skills i
 
 ---
 
-### My GitHub Stats:
+### My GitHub Status:
 ## My Journey  
 
-![Jahidultr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahidultr&show_icons=true&theme=dark)  
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Jahidultr">Jahidultr's GitHub Stats</a></h3>
+      <ul>
+        <li>🌟 Total Stars Earned: <b>0</b></li>
+        <li>📝 Total Commits (2025): <b>639</b></li>
+        <li>🔄 Total PRs: <b>0</b></li>
+        <li>📂 Total Issues: <b>0</b></li>
+        <li>⚡ Contributed to (last year): <b>0</b></li>
+      </ul>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jahidultr&show_icons=true&theme=dark" width="100%">
+    </td>
+    <td>
+      <h3>Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahidultr&layout=compact&theme=dark" width="100%">
+    </td>
+  </tr>
+</table>
 
-## Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahidultr&layout=compact&theme=dark)  
+---
 
-## Contribution Graph  
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Jahidultr&theme=react-dark)  
+### Contribution Graph  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jahidultr&theme=react-dark" width="100%" height="250px"/>
+
 
 
 ---

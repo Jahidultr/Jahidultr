@@ -76,7 +76,21 @@ I have expertise in Software Quality Assurance (SQA), as well as strong skills i
 
 ---
 
-### My Latest Projects:
-- **[Personal Portfolio](https://jahidultr.github.io/personal-website/)**: My personal portfolio built with HTML and CSS to showcase my skills and achievements.  
-- **[Flutter App for Google Maps](https://github.com/Jahidultr/Maps)**: A Flutter-based Google Maps app to showcase basic app development skills.  
-- **[Automatic Room Light Controller](https://github.com/Jahidultr/Ardunio_Project)**: A project Automatic Room Light Controller with Visitor Counter.  
+## 🚀 Latest Projects
+
+- **[SQA Portfolio](https://github.com/Jahidultr/jahidul-sqa-portfolio)** – A collection of manual testing, API testing, SQL practice, bug reports, and automation testing projects.
+
+- **[OrangeHRM Automation Testing](https://github.com/Jahidultr/jahidul-sqa-portfolio/tree/main/Automation/OrangeHRM)** – Cypress-based end-to-end automation testing project implementing Page Object Model (POM) and functional test scenarios for OrangeHRM.
+  
+- **[Personal Portfolio](https://jahidultr.github.io/personal-website/)**: My personal portfolio built with HTML and CSS to showcase my skills and achievements.
+  
+- **[Flutter App for Google Maps](https://github.com/Jahidultr/Maps)**: A Flutter-based Google Maps app to showcase basic app development skills.
+
+  ## 📚 Research Publications
+
+* 🏦 **A Hybrid Framework Combining Machine Learning and Deep Learning for Intelligent Loan Approval Prediction** | [IEEE ICCIT 2025 Paper](https://ieeexplore.ieee.org/abstract/document/11491621)
+  
+* 🎤 **Multi-Level Embedding Conformer Framework for Bengali Automatic Speech Recognition** | [arXiv Paper](https://arxiv.org/abs/2601.09710)
+
+
+

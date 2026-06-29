@@ -120,11 +120,15 @@ Passionate about Software Quality Assurance (SQA), Test Automation, and Continuo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jahidultr&show_icons=true&theme=dark" height="180"/>
+<!-- Streak এবং Languages কার্ড দুটি পাশাপাশি থাকবে -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jahidultr&theme=dark" height="180px" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahidultr&layout=compact&theme=dark" height="180px" width="400px" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jahidultr&layout=compact&theme=dark" height="180px" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jahidultr&theme=dark" height="300px" width="700px" />
+<br/><br/>
+
+<!-- আপনার কন্ট্রিবিউশন গ্রাফ চার্টটি নিচে চলে আসবে -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jahidultr&theme=react-dark&custom_title=GitHub%20Activity" height="300px" width="700px" />
 
 </div>
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jahidul Islam</h1>
 
-<h3 align="center">SQA Intern at Arogga | QA Automation  | CSE Graduate</h3>
+<h3 align="center">SQA Engineer at Arogga | QA Automation  | CSE Graduate</h3>
 
 <p align="center">
 Passionate about Software Quality Assurance (SQA), Test Automation, and Continuous Learning. Currently working as an SQA Intern at Arogga with hands-on experience in Manual Testing, API Testing, SQL, Bug Reporting, Playwright, and Cypress.
@@ -10,7 +10,7 @@ Passionate about Software Quality Assurance (SQA), Test Automation, and Continuo
 
 ## 👨‍💻 About Me
 
-* 💼 Currently working as an **SQA Intern at Arogga**
+* 💼 Currently working as an **SQA Engineer at Arogga**
 * 🎓 B.Sc. in Computer Science & Engineering (CSE)
 * 🧪 Experienced in Manual Testing, API Testing, Database Testing, and QA Documentation
 * 🤖 Learning and building automation frameworks using Playwright and Cypress

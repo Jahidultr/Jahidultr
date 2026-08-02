@@ -135,7 +135,7 @@ Passionate about Software Quality Assurance (SQA), Test Automation, and Continuo
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/Jahidultr/Jahidultr/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jahidultrsqa/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jr_jahidul_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 <a href="https://x.com/Jahidul_Islam02" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 📧 <a href="mailto:jahidulislamdiu02@gmail.com">jahidulislamdiu02@gmail.com</a>

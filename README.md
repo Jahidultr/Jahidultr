@@ -1,142 +1,176 @@
-<h1 align="center">Hi, I'm Jahidul Islam</h1>
+<h1 align="center">Md. Jahidul Islam</h1> <p align="center"> <b>Trainee Assistant Software Engineer (QA)</b> @ Millennium Information Solution Ltd.<br/> Manual Testing · API Testing · Test Automation · Performance Testing </p> <p align="center"> <a href="https://www.linkedin.com/in/jahidultrsqa/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:jahidulislamsqa@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://x.com/Jahidul_Islam02"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/> </a> </p>
 
-<h3 align="center">SQA Engineer at Arogga | QA Automation  | CSE Graduate</h3>
+## About
+
+I'm a QA engineer who believes good testing is less about clicking through screens and more
+about asking the right questions before a single test runs. My work sits at the point where
+requirements meet reality writing test cases that expose the gaps, reproducing defects clearly
+enough that developers can fix them on the first try, and validating that what ships actually
+matches what was agreed.
+
+I started in manual and exploratory testing, which taught me how software genuinely breaks.
+From there I moved into API testing with Postman, SQL-based data validation, and now automation
+with Cypress and Playwright automating the repetitive checks so there's more time for the
+thinking work that finds real bugs.
+
+Outside QA, I work on applied machine learning research, with papers published at
+**IEEE ICCIT 2025** and on **arXiv**.
+
+
+|  |  |
+|:--|:--|
+| 🔭 **Current Role** | Trainee Assistant Software Engineer (QA) at **Millennium Information Solution Ltd. (MISL)** |
+| 🎓 **Education** | B.Sc. in Computer Science & Engineering |
+| 🌱 **Currently Learning** | Manual Testing · Playwright · Cypress with Page Object Model (POM) · API Testing · k6 Performance Testing |
+| 💬 **Ask Me About** | Manual & Exploratory Testing · Test Case Design · API Testing · SQL · Test Automation · Performance Testing |
+| 📫 **Reach Me** | [jahidulislamsqa@gmail.com](mailto:jahidulislamsqa@gmail.com) |
+
+---
+
+## Tech Stack
+
+**Manual Testing**
+
+![Functional](https://img.shields.io/badge/Functional-2C3E50?style=flat-square)
+![Regression](https://img.shields.io/badge/Regression-2C3E50?style=flat-square)
+![Smoke](https://img.shields.io/badge/Smoke-2C3E50?style=flat-square)
+![Exploratory](https://img.shields.io/badge/Exploratory-2C3E50?style=flat-square)
+![Test Case Design](https://img.shields.io/badge/Test_Case_Design-2C3E50?style=flat-square)
+![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-2C3E50?style=flat-square)
+
+**Automation Testing**
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Page Object Model](https://img.shields.io/badge/Page_Object_Model-2C3E50?style=flat-square)
+![E2E Testing](https://img.shields.io/badge/End_to_End-2C3E50?style=flat-square)
+
+**API & Performance**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-2C3E50?style=flat-square)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![Load Testing](https://img.shields.io/badge/Load_Testing-2C3E50?style=flat-square)
+
+**Database & Security**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Database Testing](https://img.shields.io/badge/Database_Testing-2C3E50?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+
+**Tools & Collaboration**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
+
+**Programming Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+---
+
+## Experience
+
+**Trainee Assistant Software Engineer (QA)** · Millennium Information Solution Ltd. (MISL) — *Present*
+
+<br/>
+
+**SQA Intern** · Arogga Ltd.
+
+- Designed and executed **40+ test cases per sprint** across web and mobile.
+- Identified and tracked **25+ defects** in ClickUp with clear repro steps and severity triage.
+- Ran functional, regression, smoke, and exploratory test cycles.
+- Performed API testing with Postman — request/response, status codes, schema validation.
+- Carried out basic security validation using Burp Suite.
+
+---
+
+
+## Projects
+
+A collection of hands-on projects covering manual testing, test automation, API testing, and performance testing.
+
+> **Full SQA Portfolio:** [Jahidul SQA Portfolio](https://github.com/Jahidultr/jahidul-sqa-portfolio)
+
+### 🧪 Manual Testing
+
+| Project | Description |
+|---|---|
+| **[Amazon Login Testing](https://github.com/Jahidultr/jahidul-sqa-portfolio/tree/main/manual-testing/amazon-login-testing)** | Comprehensive manual testing suite covering login test cases, execution logs, bug reports, and supporting documentation |
+| **[Newsletter Bug Hunt](https://github.com/Jahidultr/jahidul-sqa-portfolio/tree/main/manual-testing/newsletterbughunt1)** | Exploratory testing of a newsletter signup flow with documented bugs and findings |
+
+### 🤖 Automation Testing
+
+| Project | Description |
+|---|---|
+| **[OrangeHRM Automation](https://github.com/Jahidultr/jahidul-sqa-portfolio/tree/main/Automation/OrangeHRM)** | End-to-end Cypress automation suite implemented using the Page Object Model (POM) |
+| **[SteamStore Automation](https://github.com/Jahidultr/jahidul-sqa-portfolio/tree/main/Automation/SteamStore)** | Cypress automation covering Steam Store search and navigation workflows |
+
+### 🔌 API Testing & Development
+
+| Project | Description |
+|---|---|
+| **[Delivery Tracking API](https://github.com/Jahidultr/delivery-tracking-api)** | Self-developed REST API project with backend implementation and API testing |
+
+### ⚡ Performance Testing
+
+| Project | Description |
+|---|---|
+| **[k6 Performance Testing Scripts](https://github.com/Jahidultr/k6-performance-testing-scripts)** | Performance testing scripts with threshold configuration and performance metrics analysis |
+---
+
+## Research
+
+**A Hybrid Framework Combining Machine Learning and Deep Learning for Intelligent Loan Approval Prediction**
+*IEEE ICCIT 2025* — [Read the paper](https://ieeexplore.ieee.org/abstract/document/11491621)
+
+**Multi-Level Embedding Conformer Framework for Bengali Automatic Speech Recognition**
+*arXiv preprint* — [Read the paper](https://arxiv.org/abs/2601.09710)
+
+---
+
+## Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/Jahidul_Islam2/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/jahidulislamdiu2">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Activity & Statistics
 
 <p align="center">
-Passionate about Software Quality Assurance (SQA), Test Automation, and Continuous Learning. Currently working as an SQA Intern at Arogga with hands-on experience in Manual Testing, API Testing, SQL, Bug Reporting, Playwright, and Cypress.
+  <img src="https://streak-stats.demolab.com?user=Jahidultr&theme=tokyonight&hide_border=true" alt="Jahidul Islam's GitHub Streak Stats"/>
+</p>
+
+
+<h3 align="center">🧪 Testing Focus</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Manual%20Testing-4CAF50?style=flat-square&logo=checkmarx&logoColor=white" alt="Manual Testing"/>
+  <img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="API Testing"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-* 💼 Currently working as an **SQA Engineer at Arogga**
-* 🎓 B.Sc. in Computer Science & Engineering (CSE)
-* 🧪 Experienced in Manual Testing, API Testing, Database Testing, and QA Documentation
-* 🤖 Learning and building automation frameworks using Playwright and Cypress
-* 📚 Research enthusiast with publications in IEEE ICCIT 2025 and arXiv
-* 🤝 Open to collaborating on SQA, QA Automation, and Software Testing projects
-* 📫 Reach me at: **[jahidulislamdiu02@gmail.com](mailto:jahidulislamdiu02@gmail.com)**
----
-
-## 📚 Research Publications
-
-* 🏦 **A Hybrid Framework Combining Machine Learning and Deep Learning for Intelligent Loan Approval Prediction** | [IEEE ICCIT 2025 Paper](https://ieeexplore.ieee.org/abstract/document/11491621)
-
-* 🎤 **Multi-Level Embedding Conformer Framework for Bengali Automatic Speech Recognition** | [arXiv Paper](https://arxiv.org/abs/2601.09710)
-
----
-
-## 🚀 Featured Projects
-
-* **[SQA Portfolio](https://github.com/Jahidultr/jahidul-sqa-portfolio)** – A collection of manual testing, API testing, SQL practice, bug reports, and automation testing projects.
-
-* **[OrangeHRM Automation Testing](https://github.com/Jahidultr/jahidul-sqa-portfolio/tree/main/Automation/OrangeHRM)** – Cypress-based end-to-end automation testing project implementing Page Object Model (POM) and functional test scenarios.
-
-* **[Personal Portfolio](https://jahidultr.github.io/personal-website/)** – Personal portfolio website showcasing my skills, projects, and achievements.
-
-* **[Flutter App for Google Maps](https://github.com/Jahidultr/Maps)** – Flutter-based Google Maps application demonstrating location-based services and mobile development skills.
-
----
-
-<img align="right" alt="coding" width="300" style="border-radius: 15px; opacity: 0.7;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 🛠 QA Tools & Technologies
-<p align="left">
-
-<a href="https://playwright.dev/" target="_blank">
-  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="45" height="45"/>
-</a>
-
-<a href="https://www.cypress.io/" target="_blank">
-  <img src="https://cdn.simpleicons.org/cypress" alt="Cypress" width="45" height="45"/>
-</a>
-
-<a href="https://www.selenium.dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="45" height="45"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
-</a>
-
-<a href="https://www.atlassian.com/software/jira" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="45" height="45"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-</a>
-
-<a href="https://dart.dev/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="45" height="45"/>
-</a>
-
-<a href="https://flutter.dev/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45"/>
-</a>
-
-</p>
-
----
-
-## 🏆 Coding Profiles
-
-### LeetCode
-
-**[LeetCode Profile:](https://leetcode.com/Jahidul_Islam2/)**
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Jahidul_Islam2?theme=dark)
-
-### HackerRank
-
-- **[HackerRank Profile:](https://www.hackerrank.com/jahidulislamdiu2)**
-
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-5%20stars-brightgreen)
-![Java](https://img.shields.io/badge/Java-5%20stars-brightgreen)
-![Python](https://img.shields.io/badge/Python-4%20stars-brightgreen)
-![C++](https://img.shields.io/badge/C++-4%20stars-brightgreen)
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<!-- Streak এবং Languages কার্ড দুটি পাশাপাশি থাকবে -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jahidultr&theme=dark" height="180px" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jahidultr&layout=compact&theme=dark" height="180px" />
-
-<br/><br/>
-
-<!-- আপনার কন্ট্রিবিউশন গ্রাফ চার্টটি নিচে চলে আসবে -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jahidultr&theme=react-dark&custom_title=GitHub%20Activity" height="300px" width="700px" />
-
-</div>
-
----
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/jahidultrsqa/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jr_jahidul_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="https://x.com/Jahidul_Islam02" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-📧 <a href="mailto:jahidulislamdiu02@gmail.com">jahidulislamdiu02@gmail.com</a>
+<p align="center">
+  Open to collaborating on SQA, test automation, and software testing projects.<br/>
+  <a href="mailto:jahidulislamsqa@gmail.com"><b>jahidulislamsqa@gmail.com</b></a>
 </p>

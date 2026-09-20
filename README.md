@@ -29,14 +29,19 @@ Outside QA, I work on applied machine learning research, with papers published a
 
 ## Tech Stack
 
-**Manual Testing**
+### Manual Testing
 
-![Functional](https://img.shields.io/badge/Functional-2C3E50?style=flat-square)
-![Regression](https://img.shields.io/badge/Regression-2C3E50?style=flat-square)
-![Smoke](https://img.shields.io/badge/Smoke-2C3E50?style=flat-square)
-![Exploratory](https://img.shields.io/badge/Exploratory-2C3E50?style=flat-square)
-![Test Case Design](https://img.shields.io/badge/Test_Case_Design-2C3E50?style=flat-square)
-![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-2C3E50?style=flat-square)
+![Functional Testing](https://img.shields.io/badge/Functional%20Testing-2C3E50?style=flat-square)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-2C3E50?style=flat-square)
+![Smoke Testing](https://img.shields.io/badge/Smoke%20Testing-2C3E50?style=flat-square)
+![Exploratory Testing](https://img.shields.io/badge/Exploratory%20Testing-2C3E50?style=flat-square)
+![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-2C3E50?style=flat-square)
+![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-2C3E50?style=flat-square)
+![Integration Testing](https://img.shields.io/badge/Integration%20Testing-2C3E50?style=flat-square)
+![System Testing](https://img.shields.io/badge/System%20Testing-2C3E50?style=flat-square)
+![Usability Testing](https://img.shields.io/badge/Usability%20Testing-2C3E50?style=flat-square)
+![Boundary Value Analysis](https://img.shields.io/badge/Boundary%20Value%20Analysis-2C3E50?style=flat-square)
+![Equivalence Partitioning](https://img.shields.io/badge/Equivalence%20Partitioning-2C3E50?style=flat-square)
 
 **Automation Testing**
 

@@ -35,42 +35,57 @@ Outside QA, I work on applied machine learning research, with publications at **
 ![Boundary Value Analysis](https://img.shields.io/badge/Boundary%20Value%20Analysis-2C3E50?style=flat-square)
 ![Equivalence Partitioning](https://img.shields.io/badge/Equivalence%20Partitioning-2C3E50?style=flat-square)
 
-**Automation Testing**
+---
 
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+### Automation Testing
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Page Object Model](https://img.shields.io/badge/Page_Object_Model-2C3E50?style=flat-square)
 ![E2E Testing](https://img.shields.io/badge/End_to_End-2C3E50?style=flat-square)
 
-**API & Performance**
+---
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### API Testing
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-2C3E50?style=flat-square)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+
+---
+
+### Performance Testing
+
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 ![Load Testing](https://img.shields.io/badge/Load_Testing-2C3E50?style=flat-square)
 
-**Database & Security**
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Database & Security
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Database Testing](https://img.shields.io/badge/Database_Testing-2C3E50?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-**Tools & Collaboration**
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
+### Tools & Collaboration
 
-**Programming Languages**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+---
+
+### Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
@@ -108,14 +123,8 @@ A collection of hands-on projects covering manual testing, test automation, API 
 
 | Project | Description |
 |---|---|
-| **[OrangeHRM Automation](https://github.com/Jahidultr/jahidul-sqa-portfolio/tree/main/Automation/OrangeHRM)** | End-to-end Cypress automation suite implemented using the Page Object Model (POM) |
-| **[SteamStore Automation](https://github.com/Jahidultr/jahidul-sqa-portfolio/tree/main/Automation/SteamStore)** | Cypress automation covering Steam Store search and navigation workflows |
-
-### 🔌 API Testing & Development
-
-| Project | Description |
-|---|---|
-| **[Delivery Tracking API](https://github.com/Jahidultr/delivery-tracking-api)** | Self-developed REST API project with backend implementation and API testing |
+| **[OrangeHRM Automation](https://github.com/Jahidultr/jahidul-sqa-portfolio/tree/main/Automation/OrangeHRM)** | Cypress-based end-to-end automation for OrangeHRM User Management, covering login, user creation, search, and detail validation using the Page Object Model (POM) |
+| **[SteamStore Automation](https://github.com/Jahidultr/jahidul-sqa-portfolio/tree/main/Automation/SteamStore)** | Cypress-based end-to-end automation for Steam Store search workflows, featuring dynamic game data extraction, data reuse, search validation, and consistency checks using the Page Object Model (POM) |
 
 ### ⚡ Performance Testing
 

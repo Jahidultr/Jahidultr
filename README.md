@@ -2,20 +2,12 @@
 
 ## About
 
-I'm a QA engineer who believes good testing is less about clicking through screens and more
-about asking the right questions before a single test runs. My work sits at the point where
-requirements meet reality writing test cases that expose the gaps, reproducing defects clearly
-enough that developers can fix them on the first try, and validating that what ships actually
-matches what was agreed.
 
-I started in manual and exploratory testing, which taught me how software genuinely breaks.
-From there I moved into API testing with Postman, SQL-based data validation, and now automation
-with Cypress and Playwright automating the repetitive checks so there's more time for the
-thinking work that finds real bugs.
+I'm a QA engineer who believes good testing is less about clicking through screens and more about asking the right questions before a single test runs. My work focuses on bridging the gap between requirements and real-world software behavior writing test cases that uncover issues, reproducing defects clearly, and validating that delivered features meet the expected requirements.
 
-Outside QA, I work on applied machine learning research, with papers published at
-**IEEE ICCIT 2025** and on **arXiv**.
+I started with manual and exploratory testing, which helped me understand how software can fail in real-world scenarios. Since then, I have expanded my skills into API testing with Postman, SQL-based data validation, and test automation with Cypress and Playwright. My goal is to automate repetitive checks while keeping a strong focus on exploratory thinking and meaningful defect discovery.
 
+Outside QA, I work on applied machine learning research, with publications at **IEEE ICCIT 2025** and on **arXiv**.
 
 |  |  |
 |:--|:--|
@@ -132,13 +124,16 @@ A collection of hands-on projects covering manual testing, test automation, API 
 | **[k6 Performance Testing Scripts](https://github.com/Jahidultr/k6-performance-testing-scripts)** | Performance testing scripts with threshold configuration and performance metrics analysis |
 ---
 
+
 ## Research
 
-**A Hybrid Framework Combining Machine Learning and Deep Learning for Intelligent Loan Approval Prediction**
-*IEEE ICCIT 2025* — [Read the paper](https://ieeexplore.ieee.org/abstract/document/11491621)
+### A Hybrid Framework Combining Machine Learning and Deep Learning for Intelligent Loan Approval Prediction
 
-**Multi-Level Embedding Conformer Framework for Bengali Automatic Speech Recognition**
-*arXiv preprint* — [Read the paper](https://arxiv.org/abs/2601.09710)
+**IEEE ICCIT 2025** · [Read the Paper](https://ieeexplore.ieee.org/abstract/document/11491621)
+
+### Multi-Level Embedding Conformer Framework for Bengali Automatic Speech Recognition
+
+**arXiv Preprint** · [Read the Paper](https://arxiv.org/abs/2601.09710)
 
 ---
 

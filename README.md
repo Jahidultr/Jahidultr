@@ -93,6 +93,10 @@ Outside QA, I work on applied machine learning research, with publications at **
 
 **Trainee Assistant Software Engineer (QA)** · Millennium Information Solution Ltd. (MISL) — *Present*
 
+- Currently undergoing training and onboarding in software quality assurance.
+- Learning product workflows, QA processes, and application functionality.
+- Developing practical knowledge of SQL and database concepts for software testing.
+
 <br/>
 
 **SQA Intern** · Arogga Ltd.
